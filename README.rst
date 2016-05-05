@@ -1,7 +1,13 @@
-# ardPower Oh-My-Zsh Theme
-Custom oh-my-zsh theme inspired by a many custom themes suited for perfect ZSH Environment under Byobu with Tmux Backend.
+========
+ardPower
+========
 
-ScreenShot :
+Its a custom ``Oh-My-Zsh Theme`` inspired by many custom themes suited for a perfect ZSH Environment under Byobu with Tmux Backend.
 
-![All text](ScreenShot.png?raw=true "Screen Shot")
+ScreenShot
+----------
+
+.. image:: ScreenShot.png
+
+
 
