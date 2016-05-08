@@ -24,6 +24,8 @@ Screenshot
 Documentaion
 --------------
 
+You can also find `PDF <https://readthedocs.org/projects/ardpower/downloads/pdf/latest/>`_ version of the documentation `here <https://readthedocs.org/projects/ardpower/downloads/pdf/latest/>`_.
+
 .. toctree::
    :maxdepth: 2
 
