@@ -102,7 +102,9 @@ local current_dir='%{$fg[red]%}[%{$fg_bold[yellow]%}λ %{$reset_color%}%~% %{$fg
 
 local current_time='%{$fg[red]%}{%{$fg_bold[cyan]%}⚙ %{$fg_bold[yellow]%}%T%{$fg[red]%}}%{$reset_color%} %{$fg_bold[magenta]%}⚡%{$reset_color%} $vcs_info_msg_0_$(virtualenv_info)'
 
-PROMPT="%(?,%{$fg[red]%}┌─╼${current_user}%{$reset_color%}
+PROMPT="
+
+%(?,%{$fg[red]%}┌─╼${current_user}%{$reset_color%}
 %{$fg[red]%}└─┌─╼${current_time}%{$reset_color%}
 %{$fg[red]%}  └────o%{$reset_color%} "
 
